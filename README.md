@@ -31,8 +31,5 @@ O **Rota Vendas** é uma aplicação **PWA (Progressive Web App)** desenvolvida 
 ✅ **Assinatura Digital:** Captura de assinatura do cliente e do vendedor diretamente na tela do celular.
 ✅ **Modo PWA:** Instalável no Android/iOS, funcionando como um app nativo.
 
-## 📱 Capturas de Tela
-*(Adicione aqui prints do seu app depois se quiser)*
-
 ---
 Desenvolvido por **Gabriel Guarnieri** 💻
